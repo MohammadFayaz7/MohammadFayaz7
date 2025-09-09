@@ -18,6 +18,17 @@
 
 ☁️ Exposure to Cloud & Networking (Azure, ExpressRoute, VNets)
 
+📌 Featured Projects
+
+🔐 Secure Cloud-Based File Sharing App – Authentication, authorization, and encryption
+
+🍔 Responsive Food Delivery App – Built with React & Tailwind
+
+📊 Employee Task Management System – Role-based login, task tracking, and statistics
+
+💳 ATM Interface in Python – File handling + dictionary-based transactions
+
+📦 Inventory Management System – CRUD operations, reporting, low-stock alerts
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-fayaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fayazmohammad744@gmail.com) 
