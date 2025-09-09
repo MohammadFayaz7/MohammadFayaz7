@@ -1,5 +1,22 @@
-# 💫 About Me:
-A passionate and detail-oriented Frontend Developer.<br>strong foundation in HTML, CSS, JavaScript, and sql.<br>proficiency in the React framework.<br>Skilled in creating responsive and user-friendly web applications.<br>Experienced in building dynamic UI&UX Design.<br>Ensuring cross-browser compatibility, and optimizing performance for seamless user experiences.
+👋 Hi, I'm Mohammad Fayaz
+
+🚀 A passionate developer who loves turning ideas into impactful applications. I enjoy working across frontend, backend, and data-driven projects, and I’m always curious about learning new technologies to solve real-world problems.
+
+💡 About Me
+
+🎓 Background in Statistics (BSc), currently pursuing MCA
+
+🧑‍💻 Experienced in Python Development (internship + projects)
+
+🌐 Strong foundation in Frontend Development (HTML, CSS, JavaScript, React, Tailwind, Bootstrap)
+
+⚙️ Skilled in Backend & APIs (Python, FastAPI, Streamlit)
+
+📊 Knowledgeable in Databases (SQL, SQLite, file handling)
+
+🤖 Hands-on with AI/ML projects (CNNs, Image Enhancement using Zero-DCE)
+
+☁️ Exposure to Cloud & Networking (Azure, ExpressRoute, VNets)
 
 
 ## 🌐 Socials:
